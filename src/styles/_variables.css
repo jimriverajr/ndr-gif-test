@@ -1,0 +1,32 @@
+/*
+  Fonts
+*/
+
+$font-regular: 'Roboto', sans-serif;
+$font-bold: 'Roboto-Bold', sans-serif;
+$font-medium: 'Roboto-Medium', sans-serif;
+$font-italic: 'Roboto-Italic', sans-serif;
+
+
+/*
+  Font color
+*/
+
+$font-normal:  #333;
+$font-light:   #464646;
+$font-tolight: #AAA;
+
+
+/*
+  Theme Color
+*/
+
+$primary-color: #07ccc2;
+$secondary-color: #25d1a3;
+
+
+/*
+  link Color
+*/
+
+$link-color: #0099e5;
